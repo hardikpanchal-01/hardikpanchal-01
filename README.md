@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/hardikpanchal-01/hardikpanchal-01/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+<img src="https://raw.githubusercontent.com/hardikpanchal-01/hardikpanchal-01/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="logo">
+
 
 <h1 align="center">Hello 👋, I' hardik Panchal</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer with experience in building web applications using modern technologies.</h3>
