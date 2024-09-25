@@ -1,7 +1,12 @@
+![logo](https://raw.githubusercontent.com/hardikpanchal-01/hardikpanchal-01/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hello 👋, I' hardik Panchal</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer with experience in building web applications using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikpanchal-01&label=Profile%20views&color=0e75b6&style=flat" alt="hardikpanchal-01" /> </p>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&s.gif">
+
+
 
 - 🔭 I’m currently working on **full-stack app development with React Native, Node.js, MongoDB, and Docker.**
 
